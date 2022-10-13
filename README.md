@@ -1,2 +1,2 @@
-# My-Projects
+# DataMiningTechniques
 A compilations 
